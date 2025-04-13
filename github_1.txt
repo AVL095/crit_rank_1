@@ -1,0 +1,7 @@
+Wilcoxon_polinom.cpp
+Ansari_polinom.cpp
+ansari_2.py
+wilc_polinom.html
+wilc_polinom.js
+
+
